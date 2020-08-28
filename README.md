@@ -35,7 +35,7 @@
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
-| Vincent Antonio Smedile | Section 001         | planck1917           | <https://planck1917.github.io>                          |
+| Vincent Antonio Smedile | Section 001         | planck1917           | <https://planck1917.github.io/>                          |
 
 
 # Integration of RStudio with Git
